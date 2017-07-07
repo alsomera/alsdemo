@@ -292,6 +292,10 @@ class dbmscontroller extends Controller
 
     			</script>";
 		}
+	
+		public function trialfunction(){
+			return "Just trying. :)";
+		}
 }
 
 
